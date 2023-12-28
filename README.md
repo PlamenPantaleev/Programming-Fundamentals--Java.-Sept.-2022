@@ -1,8 +1,3 @@
 # Programming-Fundamentals--Java.-Sept.-2022
 This is a repository with solutions of problems in Softuni course: Programming Fundamentals with Java- Sept. 2022.
-1. Basic Syntax - Exercise.
-2. Data types - Exercise.
-3. Arrays - Exercise.
-4. Methods - Exercise.
-5. List - Exercise.
-6. Object and Classes - Exercise.
+Here I learned some fundamental concepts in programming as well as more advanced data structures such as Arrays, List, Objects and Classes.
