@@ -4,4 +4,3 @@ This is a repository with solutions of problems in Softuni course: Programming F
 2. Data types - Exercise.
 3. Arrays - Exercise.
 4. Methods - Exercise.
-5. List - Exercise.
